@@ -1,0 +1,208 @@
+<b>Número de Vuelo: 1
+</b>
+<br>
+Fecha de Vuelo: 24/04/24
+<br>
+Origen: Cordoba
+<br>
+Destino: Buenos Aires
+<br>
+Categoría: Económica
+<br>
+Pasajero: Andrea
+<br>
+Precio: 50000
+<br>
+<hr>
+<b>Número de Vuelo: 2
+</b>
+<br>
+Fecha de Vuelo: 25/04/24
+<br>
+Origen: Cordoba
+<br>
+Destino: Mendoza
+<br>
+Categoría: Comercial
+<br>
+Pasajero: Zoe
+<br>
+Precio: 60000
+<br>
+<hr>
+<b>Número de Vuelo: 3
+</b>
+<br>
+Fecha de Vuelo: 26/04/24
+<br>
+Origen: Cordoba
+<br>
+Destino: Misiones
+<br>
+Categoría: Primera Clase
+<br>
+Pasajero: Javier
+<br>
+Precio: 70000
+<br>
+<hr>
+<b>Número de Vuelo: 4
+</b>
+<br>
+Fecha de Vuelo: 25/04/24
+<br>
+Origen: Buenos Aires
+<br>
+Destino: Cordoba
+<br>
+Categoría: Económica
+<br>
+Pasajero: Leo
+<br>
+Precio: 50000
+<br>
+<hr>
+<b>Número de Vuelo: 5
+</b>
+<br>
+Fecha de Vuelo: 27/04/24
+<br>
+Origen: Buenos Aires
+<br>
+Destino: Mendoza
+<br>
+Categoría: Comercial
+<br>
+Pasajero: Nico
+<br>
+Precio: 80000
+<br>
+<hr>
+<b>Número de Vuelo: 6
+</b>
+<br>
+Fecha de Vuelo: 2024-04-25 - Hora: 03:24
+<br>
+Origen: Cordoba
+<br>
+Destino: Buenos Aires
+<br>
+Categoría: Económica
+<br>
+Pasajero: carabajal zoe
+<br>
+Precio: 50000
+<br>
+<hr>
+<b>Número de Vuelo: 7
+</b>
+<br>
+Fecha de Vuelo: 2024-05-02 - Hora: 17:30
+<br>
+Origen: Cordoba
+<br>
+Destino: Mendoza
+<br>
+Categoría: Primera Clase
+<br>
+Pasajero: Espinoza Carlos
+<br>
+Precio: 60000
+<br>
+<hr>
+<b>Número de Vuelo: 8
+</b>
+<br>
+Fecha de Vuelo: 2024-04-27 - Hora: 01:41
+<br>
+Origen: Cordoba
+<br>
+Destino: Cordoba
+<br>
+Categoría: Económica
+<br>
+Pasajero: pablo
+<br>
+Precio: -
+<br>
+<hr>
+<b>Número de Vuelo: 9
+</b>
+<br>
+Fecha de Vuelo: 2024-05-01 - Hora: 05:57
+<br>
+Origen: Cordoba
+<br>
+Destino: Mendoza
+<br>
+Categoría: Económica
+<br>
+Pasajero: Maria
+<br>
+Precio: 60000
+<br>
+<hr>
+<b>Número de Vuelo: 10
+</b>
+<br>
+Fecha de Vuelo: 2024-04-30 - Hora: 16:00
+<br>
+Origen: Cordoba
+<br>
+Destino: Mendoza
+<br>
+Categoría: Comercial
+<br>
+Pasajero: Hernan
+<br>
+Precio: 60000
+<br>
+<hr>
+<b>Número de Vuelo: 11
+</b>
+<br>
+Fecha de Vuelo: 2024-04-30 - Hora: 13:00
+<br>
+Origen: Cordoba
+<br>
+Destino: Misiones
+<br>
+Categoría: Comercial
+<br>
+Pasajero: Manuel
+<br>
+Precio: 70000
+<br>
+<hr>
+<b>Número de Vuelo: 12
+</b>
+<br>
+Fecha de Vuelo: 2024-05-07 - Hora: 20:00
+<br>
+Origen: Buenos Aires
+<br>
+Destino: Cordoba
+<br>
+Categoría: Primera Clase
+<br>
+Pasajero: Pilar
+<br>
+Precio: 50000
+<br>
+<hr>
+<b>Número de Vuelo: 13
+</b>
+<br>
+Fecha de Vuelo: 2024-05-09 - Hora: 21:00
+<br>
+Origen: Cordoba
+<br>
+Destino: Mendoza
+<br>
+Categoría: Primera Clase
+<br>
+Pasajero: Zoe
+<br>
+Precio: 60000
+<br>
+<hr>
